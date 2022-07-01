@@ -122,5 +122,22 @@ body {
     'Segoe UI Symbol';
 
   background-image: url('bg.gif');
+  background-repeat: no-repeat, repeat;
   background-color: #a0b989 !important;
+}
+
+.wallet-adapter-button {
+  background-color: #003053 !important;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-family: 'Mondwest' !important;
+  font-size: 16px;
+  font-weight: 600;
+  height: 48px;
+  line-height: 48px;
+  padding: 0 24px;
+  border-radius: 4px;
 }

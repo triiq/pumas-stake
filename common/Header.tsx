@@ -14,10 +14,8 @@ import { useUTCNow } from 'providers/UTCNowProvider'
 import { contrastColorMode } from './utils'
 
 export const StyledWalletButton = styled(WalletMultiButton)`
-  color: rgb(55, 65, 81, 1);
-  &:hover {
-    background: none !important;
-  }
+  color: #ffffff;
+
   .wallet-adapter-button {
     padding: 0px;
   }
