@@ -13,6 +13,10 @@ import { useStakePoolId } from 'hooks/useStakePoolId'
 import { useUTCNow } from 'providers/UTCNowProvider'
 import { contrastColorMode } from './utils'
 
+export const StyledAccountConnect = styled(AccountConnect)`
+background-color: #003053 !important;
+`
+
 export const StyledWalletButton = styled(WalletMultiButton)`
   color: #ffffff;
 

@@ -141,3 +141,23 @@ body {
   padding: 0 24px;
   border-radius: 4px;
 }
+
+.wallet-adapter-modal-title {
+  background-color: #003053 !important;
+  font-family: 'Mondwest' !important;
+  font-weight: 500;
+  font-size: 22px !important;
+  line-height: 36px;
+  margin: 0;
+  padding: 64px 48px 48px 48px;
+  text-align: center;
+  color: #fff;
+}
+
+.wallet-adapter-modal-wrapper {
+  background-color: #003053 !important;
+}
+
+.wallet-adapter-modal-list .wallet-adapter-button {
+  background-color: #003053 !important;
+}
