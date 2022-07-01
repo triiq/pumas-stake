@@ -526,7 +526,6 @@ function Home() {
       <Head>
         <title>The Pumas</title>
         <meta name="description" content="The Pumas Staking" />
-        <meta property="og:url" content="https://pumas.triiq.xyz/purr" />
         <meta property="og:image" content="/banner.jpeg" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
