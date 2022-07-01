@@ -526,7 +526,7 @@ function Home() {
       <Head>
         <title>The Pumas</title>
         <meta name="description" content="The Pumas Staking" />
-        <meta property="og:image" content="/android-chrome-512x512.png" />
+        <meta property="og:image" content="/banner.jpeg" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
